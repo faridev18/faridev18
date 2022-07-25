@@ -28,8 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faridev18&show_icons=true&locale=en&layout=compact" alt="faridev18" /></p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faridev18&" alt="faridev18" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
