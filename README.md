@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://zfarihane-portfolio.netlify.app/](https://zfarihane-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://farihane.com/](https://farihane.com/)
 
 - 💬 Ask me about **HTML, CSS, PHP**
 
