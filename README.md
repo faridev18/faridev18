@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Frontend project**
 
-- 🌱 I’m currently learning **Laravel, ReactJS**
+- 🌱 I’m currently learning **Three.js**
 
 - 👨‍💻 All of my projects are available at [https://farihane.com/](https://farihane.com/)
 
-- 💬 Ask me about **HTML, CSS, PHP**
+- 💬 Ask me about **HTML, CSS, PHP, Laravel, JavaScript, ReactJS**
 
 - 📫 How to reach me **zfarihane@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridev18&label=Profile%20views&color=0e75b6&style=flat" alt="faridev18" /> </p>
